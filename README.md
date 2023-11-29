@@ -12,14 +12,6 @@ Hey there! 👋 Excited to share my latest project - a sleek and responsive Sign
 - CSS
 - JavaScript
 
-## Quick Start 🚀
-1. Clone the repository
-    ```bash
-    git clone https://github.com/your-/your-project.git
-    cd your-project
-    ```
-2. Open `index.html` in your browser
-
 ## Usage
 Explore the forms, try out the cool features, and let me know what you think! 🤓
 
